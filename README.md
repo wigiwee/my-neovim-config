@@ -18,5 +18,3 @@ A simple and productive Neovim setup.
    ```vim
    :PackerSync
    ```
-   
-Enjoy coding with Neovim! 😊
